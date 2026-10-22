@@ -1,0 +1,56 @@
+[
+  {
+    "key": "roses",
+    "file": "assets/roses/bouquet.jpg",
+    "title": "Palacio Gangotena, Quito (interior) pic 1",
+    "artist": "David Adam Kess",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palacio_Gangotena,_Quito_(interior)_pic_1.JPG",
+    "bytes": 411273
+  },
+  {
+    "key": "mountains",
+    "file": "assets/destinations/mountains.jpg",
+    "title": "Nigeen Lake pano (edited)",
+    "artist": "Original: KennyOMG Derivative work: UnpetitproleX",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nigeen_Lake_pano_(edited).jpg",
+    "bytes": 109894
+  },
+  {
+    "key": "ocean",
+    "file": "assets/destinations/ocean-sunset.jpg",
+    "title": "Person wades into calm sea at sunset near a scenic coastline",
+    "artist": "Shixart1985",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Person_wades_into_calm_sea_at_sunset_near_a_scenic_coastline.jpg",
+    "bytes": 756655
+  },
+  {
+    "key": "night-road",
+    "file": "assets/destinations/night-road.jpg",
+    "title": "Petit Champlain at night, Quebec city",
+    "artist": "Wilfredor",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Petit_Champlain_at_night,_Quebec_city.jpg",
+    "bytes": 1250899
+  },
+  {
+    "key": "city",
+    "file": "assets/destinations/city-lights.jpg",
+    "title": "Long Island City New York May 2015 panorama 3",
+    "artist": "King of Hearts",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Long_Island_City_New_York_May_2015_panorama_3.jpg",
+    "bytes": 454671
+  },
+  {
+    "key": "stars",
+    "file": "assets/destinations/starry-sky.jpg",
+    "title": "Milky way1",
+    "artist": "NASA/JPL-Caltech/UCLA",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Milky_way1.jpg",
+    "bytes": 564985
+  }
+]

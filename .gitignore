@@ -1,0 +1,27 @@
+# dependencies & build
+node_modules
+dist
+dist-ssr
+.vercel
+.netlify
+*.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# keep the raw original uploads local only (optimised copies live in public/)
+/*.JPEG
+/*.MP4
+/*.jpeg
+/*.jpg
+/*.png
+/*.mp4
+/_raw
+
+# editor / os
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
